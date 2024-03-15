@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<!-- Base application theme. -->
+<style name="Theme.SSOMAI" parent="android:Theme.Material.Light.NoActionBar">
+    <!-- Primary brand color. -->
+    <item name="android:colorPrimary">@color/purple_200</item>
+    <item name="android:colorSecondary">@color/purple_500</item>
+    <item name="android:navigationBarColor">@color/purple_700</item>
+
+    <!-- Status bar color. -->
+<!--    <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+</style>
+</resources>
